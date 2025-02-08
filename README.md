@@ -1,6 +1,6 @@
 ## Main app link
 
-craft-place-web.
+## https://craft-place.netlify.app/
 
 ## Description
 
